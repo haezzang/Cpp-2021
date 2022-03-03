@@ -1,0 +1,4 @@
+﻿  Menu_2117.cpp
+D:\씨플플2117\Test2117_2\Menu_2117.cpp(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+D:\씨플플2117\Test2117_2\Menu_2117.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  Project1.vcxproj -> D:\씨플플2117\Test2117_2\Debug\Project1.exe

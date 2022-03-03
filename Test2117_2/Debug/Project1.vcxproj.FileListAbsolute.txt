@@ -1,0 +1,5 @@
+E:\Test2117 C++\Project1\Debug\Project1.exe
+E:\Test2117 C++\Project1\Debug\Project1.pdb
+E:\씨플플2117\Test2117_2\Debug\Project1.exe
+D:\씨플플2117\Test2117_2\Debug\Project1.exe
+D:\씨플플2117\Test2117_2\Debug\Project1.pdb

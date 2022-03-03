@@ -1,0 +1,3 @@
+﻿  2117_random_10.cpp
+E:\Cpp2117\Test2117\Test2117\2117_random_10.cpp(6,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Test2117.vcxproj -> E:\Cpp2117\Test2117\Debug\Test2117.exe
